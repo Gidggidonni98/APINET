@@ -1,0 +1,172 @@
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\appsettings.json
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.exe
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.deps.json
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.runtimeconfig.json
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.pdb
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.AssemblyReference.cache
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.AssemblyInfoInputs.cache
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.AssemblyInfo.cs
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.API-REST DOTNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.build.API-REST DOTNET.props
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API-REST DOTNET.props
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API-REST DOTNET.props
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\scopedcss\bundle\API-REST DOTNET.styles.css
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.CopyComplete
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\refint\API-REST DOTNET.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.pdb
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.genruntimeconfig.cache
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\obj\Debug\net7.0\ref\API-REST DOTNET.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\CA3\Documents\javiNET\API-REST DOTNET\bin\Debug\net7.0\System.CodeDom.dll
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.AssemblyReference.cache
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.AssemblyInfoInputs.cache
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.AssemblyInfo.cs
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.CoreCompileInputs.cache
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.MvcApplicationPartsAssemblyInfo.cs
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.MvcApplicationPartsAssemblyInfo.cache
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.dll
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\refint\API-REST DOTNET.dll
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.pdb
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\appsettings.Development.json
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\appsettings.json
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.exe
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.deps.json
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.runtimeconfig.json
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.pdb
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Humanizer.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\MySqlConnector.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\agl\API-REST DOTNET\bin\Debug\net7.0\System.CodeDom.dll
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.API-REST DOTNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.build.API-REST DOTNET.props
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API-REST DOTNET.props
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API-REST DOTNET.props
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.build.json
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.development.json
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\scopedcss\bundle\API-REST DOTNET.styles.css
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.CopyComplete
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.genruntimeconfig.cache
+C:\agl\API-REST DOTNET\obj\Debug\net7.0\ref\API-REST DOTNET.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\appsettings.json
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.exe
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.deps.json
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.runtimeconfig.json
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.pdb
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.AssemblyReference.cache
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.AssemblyInfoInputs.cache
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.AssemblyInfo.cs
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.API-REST DOTNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.build.API-REST DOTNET.props
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API-REST DOTNET.props
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API-REST DOTNET.props
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\scopedcss\bundle\API-REST DOTNET.styles.css
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.CopyComplete
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\refint\API-REST DOTNET.dll
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.pdb
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.genruntimeconfig.cache
+C:\Users\CA3\Documents\MACHM\API-REST DOTNET\obj\Debug\net7.0\ref\API-REST DOTNET.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\appsettings.json
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.exe
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.deps.json
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.runtimeconfig.json
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\API-REST DOTNET.pdb
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.AssemblyReference.cache
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.AssemblyInfoInputs.cache
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.AssemblyInfo.cs
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.CoreCompileInputs.cache
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.API-REST DOTNET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.build.API-REST DOTNET.props
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API-REST DOTNET.props
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API-REST DOTNET.props
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\scopedcss\bundle\API-REST DOTNET.styles.css
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.csproj.CopyComplete
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\refint\API-REST DOTNET.dll
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.pdb
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\API-REST DOTNET.genruntimeconfig.cache
+C:\Users\CA3\Documents\Kemish\API-REST DOTNET\obj\Debug\net7.0\ref\API-REST DOTNET.dll
